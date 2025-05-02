@@ -56,7 +56,7 @@ All models were trained with:
 
 ### 🔢 Overall Precision vs Recall
 
-![YOLO Comparison](image (1).png)
+![YOLO Comparison](image.png)
 
 📌 **Best Overall Recall**: `YOLOv5n` — 0.902  
 📌 **Best Overall Precision**: `YOLOv11s` — 0.935  
@@ -71,7 +71,7 @@ All models were trained with:
 | YOLOv11s  | **0.935** | 0.861  | 9.4M   | 1.8ms     |
 | YOLOv8s   | 0.913     | 0.885  | 11.1M  | 1.8ms     |
 
-📊 See more in our notebook: [`YOLOversions_comparison.ipynb`](YOLOversions_comparison (1).ipynb)
+📊 See more in our notebook: [`YOLOversions_comparison.ipynb`](YOLOversions_comparison.ipynb)
 
 ---
 
@@ -88,7 +88,7 @@ All models were trained with:
 ## 📝 Paper
 
 You can read our full academic paper here:  
-📄 [`CV_paper3.pdf`](paper.pdf)
+📄 [`paper.pdf`](paper.pdf)
 
 ---
 
