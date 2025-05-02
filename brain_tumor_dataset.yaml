@@ -1,0 +1,9 @@
+path: C:/Users/AMoma/computer_vision/Brain Tumor labeled dataset spletted
+train: C:/Users/AMoma/computer_vision/Brain Tumor labeled dataset spletted/train
+val: C:/Users/AMoma/computer_vision/Brain Tumor labeled dataset spletted/test
+
+names:
+    0: glioma
+    1: meningioma
+    2: notumor
+    3: pituitary
